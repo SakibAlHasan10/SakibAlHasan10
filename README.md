@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 ![sakib al hasan github](https://github.com/SakibAlHasan10/SakibAlHasan10/assets/138322772/05ddde01-d509-4c08-94c4-929eb5f2eb2b)
 
-
+<img src="[https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg](https://github.com/SakibAlHasan10/SakibAlHasan10/assets/138322772/05ddde01-d509-4c08-94c4-929eb5f2eb2b)" alt="banner" width="400" height="400"/>
 
 - 🌱 I’m currently learning **Next.js, Redux**
 
