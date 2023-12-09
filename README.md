@@ -6,6 +6,10 @@
 
 ## Hi there 👋, I'm Sakib Al Hasan
 ### Web Developer
+
+
+# 💫 About Me: 
+
 Hello, I’m Sakib Al Hasan, My core skill is based on JavaScript
 and I love to do most of things with JavaScript.I  am Skilled At MERN Stack. I have a strong passion
 for learning & implementing new web technologies and standards. 
@@ -14,6 +18,7 @@ for learning & implementing new web technologies and standards.
 💻  Most used line of code console.log("hello world") <br/>
 :e-mail:  How to reach me: sakibalhasan.me1@gmail.com. <br/>
 
+## 🌐 Socials:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SakibAlHasan10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sakibalhasan10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/msu.sakib.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/23039920/sakib-al-hasan)  
 
