@@ -7,14 +7,14 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SakibAlHasan10&theme=dark&hide_border=true&ring=39D5FF&fire=39D5FF&currStreakNum=39D5FF&currStreakLabel=39D5FF&dates=FFFFFF&stroke=023047&sideNums=80ED99&sideLabels=80ED99)](https://git.io/streak-stats)
 </P>
-<br/><br/>
 ## Technologies that i know
+<br/><br/>
 
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" /> <br/> <br/>
-    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,materialui,tailwind,firebase" /> <br/><br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> <br/><br/>
+    <img src="https://skillicons.dev/icons?i=html,css,js" /> <br/>
+    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,materialui,tailwind,firebase" /> <br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> <br/>
     <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode" />
   </a>
 </p>
