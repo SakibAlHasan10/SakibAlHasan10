@@ -13,8 +13,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js" /> <br/>
-    <img src="https://skillicons.dev/icons?i=react,materialui,nextjs,redux,tailwind,firebase" /> <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb," /> <br/>
+    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,materialui,tailwind,firebase" /> <br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> <br/>
     <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode" />
   </a>
 </p>
