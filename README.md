@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sakib Al Hasan</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
-<video width="320" height="240" autoplay>
-  <source src="(
-https://github.com/SakibAlHasan10/SakibAlHasan10/assets/138322772/1ea9a34d-73c4-46ea-8abf-60cbe0d24c71)" type="video/mp4">
-</video>
+![sakib al hasan github](https://github.com/SakibAlHasan10/SakibAlHasan10/assets/138322772/05ddde01-d509-4c08-94c4-929eb5f2eb2b)
+
 
 
 - 🌱 I’m currently learning **Next.js, Redux**
