@@ -4,18 +4,18 @@
 
 
 
-### Hi there 👋, I'm Sakib Al Hasan
-#### Web Developer
+## Hi there 👋, I'm Sakib Al Hasan
+### Web Developer
 Hello, I’m Sakib Al Hasan, My core skill is based on JavaScript
 and I love to do most of things with JavaScript.I  am Skilled At MERN Stack. I have a strong passion
 for learning & implementing new web technologies and standards. 
 
-♥️  I enjoy programming and learning new technologies.
-💻  Most used line of code console.log("hello world")
-:e-mail:  How to reach me: sakibalhasan.me1@gmail.com.
+♥️  I enjoy programming and learning new technologies. <br/>
+💻  Most used line of code console.log("hello world") <br/>
+:e-mail:  How to reach me: sakibalhasan.me1@gmail.com. <br/>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SakibAlHasan10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sakibalhasan10//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/msu.sakib.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/23039920/sakib-al-hasan)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SakibAlHasan10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sakibalhasan10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/msu.sakib.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/23039920/sakib-al-hasan)  
 
 
 
