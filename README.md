@@ -5,11 +5,11 @@
 <br/><br/>
 <P align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SakibAlHasan10&theme=dark&hide_border=true&ring=39D5FF&fire=39D5FF&currStreakNum=39D5FF&currStreakLabel=39D5FF&dates=FFFFFF&stroke=023047&sideNums=80ED99&sideLabels=80ED99)](https://git.io/streak-stats)
-</P>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SakibAlHasan10&theme=dark&hide_border=true&ring=39D5FF&fire=39D5FF&currStreakNum=39D5FF&currStreakLabel=39D5FF&dates=FFFFFF&stroke=023047&sideNums=80ED99&sideLabels=80ED99&background=EB545400)](https://git.io/streak-stats)
+</P> <br/> <br/>
 
 ## Technologies that i know
-<br/><br/>
+<br/>
 
 <p align="center" >
   <a href="https://skillicons.dev">
@@ -19,3 +19,4 @@
     <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode" />
   </a>
 </p>
+<br/><br/>
