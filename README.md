@@ -10,7 +10,7 @@
 
 ## Technologies that i know
 
-<p align="center" matgine-top="20">
+<p align="center" matgine-top="200">
   <a href="https://skillicons.dev">
     <img style="margin-top:100" src="https://skillicons.dev/icons?i=html,css,js" /> <br/>
     <img src="https://skillicons.dev/icons?i=react,redux,nextjs,materialui,tailwind,firebase" /> <br/>
