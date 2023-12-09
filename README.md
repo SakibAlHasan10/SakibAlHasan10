@@ -29,10 +29,11 @@ for learning & implementing new web technologies and standards.
 <P align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SakibAlHasan10&theme=dark&hide_border=true&card_width=600&ring=39D5FF&fire=39D5FF&currStreakNum=39D5FF&currStreakLabel=39D5FF&dates=FFFFFF&stroke=023047&sideNums=80ED99&sideLabels=80ED99&background=EB545400)](https://git.io/streak-stats)
-</P> <br/> <br/>
+</P> <br/>
 
 ## Technologies that i know
 <br/>
+
 
 <p align="center" >
   <a href="https://skillicons.dev">
@@ -43,3 +44,59 @@ for learning & implementing new web technologies and standards.
   </a>
 </p>
 <br/><br/>
+
+
+## New Projects 
+
+## TechStore 
+#### (New Tech and Gadgets launching)
+
+#### [Live link](https://creative-technology-f4fea.web.app) | [Client](https://github.com/SakibAlHasan10/tech-store-client-site) |  [Server](https://github.com/SakibAlHasan10/tech-store-sever-site) 
+
+
+### Features
+- TechStore is a Full-Stack-Application. Where the user will find many feathers. Users can create an account with
+  their email and password or with Google.
+- JWT Token and Firebase are used for authentication and Stripe is used for the payment system.
+- Dashboard is implemented in this project. dashboard has an admin moderator and user section where the user
+through payment is displayed as a verified user and a non-verified user.
+ <br/><br/>
+
+### Technology
+##### React.js | Mongoose | Firebase | Stripe | Material UI | Tailwindcss | Vercel | Node.js | <br/> <br/>
+
+## Booking
+#### (Hotels Booking)
+
+#### [Live link](https://booking-aeff8.web.app/) | [Client](https://github.com/SakibAlHasan10/hotel-booking-client-site) |  [Server](https://github.com/SakibAlHasan10/hotel-booking-server-site) 
+
+### Features
+- Booking is a Full-Stack-Application users can book rooms on specific dates from here.
+- On the "My Booking" page all the rooms booked by the user will be shown and from their users can change the
+  date of the booked room and delete the booked room.
+- JWT Token and Firebase are used for authentication. <br/><br/>
+
+### Technology
+##### React.js | MongoDB | Firebase | Tailwindcss | Vercel | JWT | Express.js | <br/> <br/>
+
+
+## TidalWave
+#### (Brand Shop application)
+
+#### [Live link](https://tidal-wave-c3f51.web.app/) | [Client](https://github.com/SakibAlHasan10/brand-shop-client-side) |  [Server](https://github.com/SakibAlHasan10/brand-shop-server-side) 
+
+### Features
+- This app is a theology bases website.
+- user see product using brand .
+- use signup, login and logout using navbar.
+- user added product and update product.
+- use see all cart product using my cart page.
+- user delete product in my cart.
+- this app run smoothly.
+- user gain best experience using this app. <br/><br/>
+
+### Technology
+##### React.js | MongoDB | Firebase | Tailwindcss | Vercel | JWT | Express.js |
+
+
+
