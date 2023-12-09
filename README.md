@@ -12,7 +12,7 @@
 
 <p align="center" matgine-top="20">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" /> <br/><br/><br/>
+    <img style="margin-top:100" src="https://skillicons.dev/icons?i=html,css,js" /> <br/>
     <img src="https://skillicons.dev/icons?i=react,redux,nextjs,materialui,tailwind,firebase" /> <br/>
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> <br/>
     <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode" />
