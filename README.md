@@ -26,10 +26,10 @@ for learning & implementing new web technologies and standards.
 
 ## Current Stats
 <br/><br/>
-<P align="center">
+<div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SakibAlHasan10&theme=dark&hide_border=true&card_width=600&ring=39D5FF&fire=39D5FF&currStreakNum=39D5FF&currStreakLabel=39D5FF&dates=FFFFFF&stroke=023047&sideNums=80ED99&sideLabels=80ED99&background=023047)](https://git.io/streak-stats)
-</P> <br/>
+</div> <br/>
 
 ## Technologies that i know
 <br/>
@@ -45,6 +45,19 @@ for learning & implementing new web technologies and standards.
 </p>
 <br/><br/>
 
+
+## Profile Summary
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SakibAlHasan10&theme=github_dark) <br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SakibAlHasan10&theme=github_dark&exclude=exclude)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SakibAlHasan10&theme=github_dark&exclude=exclude) <br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SakibAlHasan10&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SakibAlHasan10&theme=github_dark)
+</div>
+
+
+<!-- projects -->
 
 ## New Projects 
 
