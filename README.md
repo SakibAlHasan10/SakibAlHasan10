@@ -21,16 +21,17 @@ for learning & implementing new web technologies and standards.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SakibAlHasan10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sakibalhasan10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/msu.sakib.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/23039920/sakib-al-hasan)  
 
 
-
 ## Current Stats
 <br/><br/>
 <div align="center">
+
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SakibAlHasan10&theme=dark&hide_border=true&card_width=600&ring=39D5FF&fire=39D5FF&currStreakNum=39D5FF&currStreakLabel=39D5FF&dates=FFFFFF&stroke=023047&sideNums=80ED99&sideLabels=80ED99&background=023047)](https://git.io/streak-stats)
 
 </div> <br/>
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SakibAlHasan10&theme=radical" alt="GitHub Streak" /></a> -->
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=SakibAlHasan10&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ## Technologies that i know
 <br/>
 
