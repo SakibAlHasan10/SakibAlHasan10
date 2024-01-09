@@ -27,7 +27,9 @@ for learning & implementing new web technologies and standards.
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SakibAlHasan10&theme=dark&hide_border=true&card_width=600&ring=39D5FF&fire=39D5FF&currStreakNum=39D5FF&currStreakLabel=39D5FF&dates=FFFFFF&stroke=023047&sideNums=80ED99&sideLabels=80ED99&background=023047)](https://git.io/streak-stats)
+
 </div> <br/>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SakibAlHasan10&theme=radical" alt="GitHub Streak" /></a> -->
 
 ## Technologies that i know
 <br/>
