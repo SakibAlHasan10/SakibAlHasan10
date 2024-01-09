@@ -30,8 +30,8 @@ for learning & implementing new web technologies and standards.
 
 </div> <br/>
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SakibAlHasan10&theme=radical" alt="GitHub Streak" /></a> -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=SakibAlHasan10&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SakibAlHasan10&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ## Technologies that i know
 <br/>
 
