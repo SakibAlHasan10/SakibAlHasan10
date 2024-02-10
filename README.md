@@ -1,7 +1,6 @@
 
 ![I am GitHub Readme Generator's creator](https://scontent.fdac147-1.fna.fbcdn.net/v/t39.30808-6/408465965_2117619295257058_7259010844846063845_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=3635dc&_nc_eui2=AeG9AYsufZLH0c-SReXSomkmvc7OUpR9vO69zs5SlH287iVG3Zt6K60TjzbdF9YypSaING_TYEQnb4Cpstbhxl9f&_nc_ohc=ryeFOzMz64wAX_eVa7q&_nc_ht=scontent.fdac147-1.fna&oh=00_AfCdkpDvkLhp1xKzVs2dO3THn9YjwrDn6t2LPH1SMFOIxQ&oe=65C7C87D)
 
-<!--Sakib-->
 
 ## Hi there 👋, I'm Sakib Al Hasan
 ### Web Developer
