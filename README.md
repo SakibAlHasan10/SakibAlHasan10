@@ -30,7 +30,7 @@ for learning & implementing new web technologies and standards.
 
 <br/><br/>
 
-<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://g src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' 
+<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://g src='https://cdn.jsdelivr.neicons@3.0.1/icons/linkedin.svg' alt='linkedin' 
 40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/23039920/sakib-al-hasan)(https://stackoverflow.com/users/https://stackoverflow.com/users/23039920/sakib-al-hasan)   -->
 
 
